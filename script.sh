@@ -1,7 +1,7 @@
 echo "CEWL HOME"
-cewl -d 2 -u "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0" -m 5 --with-numbers -e -o -v -w 1.txt https://www.pippo.it/
+cewl -d 2 -u "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0" -m 5 --with-numbers -e -o -v -w 1.txt https://www.PIPPO.it/
 echo "CEWL FORUM"
-cewl -d 2 -u "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0" -m 5 --with-numbers -e -o -v -w 2.txt https://www.pippo.it/forum/
+cewl -d 2 -u "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0" -m 5 --with-numbers -e -o -v -w 2.txt https://www.PIPPO.it/forum/
 
 ### PUO' ESSERE OPZIONALE ####
 echo "JOHN STANDARD WORDLIST PUO ESSERE OPZIONALE"
